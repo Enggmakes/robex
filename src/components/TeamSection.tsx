@@ -6,6 +6,7 @@ const team = [
   { name: "Wagh Aryan", role: "AI & Hardware Engineer", image: "/gallery/aryan.jpeg", linkedin: "https://www.linkedin.com/in/aryan-wagh-7i9a10?utm_source=share_via&utm_content=profile&utm_medium=member_android" },
   { name: "Shinde Pranav", role: "Designer", image: "/gallery/pranav.jpeg", linkedin: "https://www.linkedin.com/in/pranav-shinde-2a49542b4?utm_source=share_via&utm_content=profile&utm_medium=member_android" },
    { name: "Prof.Bramhane Mam", role: "Guide", image: "", linkedin: "" },
+  { name: "Prof.Shubham Sir", role: "Technical Guide", image: "", linkedin: "" },
 ];
 
 const TeamSection = () => {
